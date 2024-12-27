@@ -128,6 +128,6 @@
 
 # ✏ GIT
 > USER : https://github.com/Kyuseon-LEE/BreadCloud
-> ADMIN : https://github.com/devdoni/BreadCloudAdmin
+> ADMIN : https://github.com/Kyuseon-LEE/BreadCloudAdmin
 
 
