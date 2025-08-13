@@ -127,7 +127,7 @@
 
 
 # ✏ GIT
-> USER : https://github.com/Kyuseon-LEE/BreadCloud<br>
+> USER : https://github.com/Kyuseon-LEE/BreadCloud_user<br>
 > ADMIN : https://github.com/Kyuseon-LEE/BreadCloudAdmin
 
 
